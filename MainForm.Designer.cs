@@ -1,4 +1,4 @@
-﻿namespace DatatBase
+﻿namespace DataBase
 {
     partial class MainForm
     {
@@ -43,6 +43,7 @@
             this.LoadXMLButton = new System.Windows.Forms.Button();
             this.ClearGridButton = new System.Windows.Forms.Button();
             this.LoadFromJsonButton = new System.Windows.Forms.Button();
+            this.buttonImport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -152,7 +153,7 @@
             // 
             this.ClearGridButton.Location = new System.Drawing.Point(620, 340);
             this.ClearGridButton.Name = "ClearGridButton";
-            this.ClearGridButton.Size = new System.Drawing.Size(129, 59);
+            this.ClearGridButton.Size = new System.Drawing.Size(129, 22);
             this.ClearGridButton.TabIndex = 6;
             this.ClearGridButton.Text = "Очистить поля";
             this.ClearGridButton.UseVisualStyleBackColor = true;
@@ -168,11 +169,22 @@
             this.LoadFromJsonButton.UseVisualStyleBackColor = true;
             this.LoadFromJsonButton.Click += new System.EventHandler(this.LoadFromJsonButton_Click);
             // 
+            // buttonImport
+            // 
+            this.buttonImport.Location = new System.Drawing.Point(620, 377);
+            this.buttonImport.Name = "buttonImport";
+            this.buttonImport.Size = new System.Drawing.Size(129, 22);
+            this.buttonImport.TabIndex = 8;
+            this.buttonImport.Text = "Импорт";
+            this.buttonImport.UseVisualStyleBackColor = true;
+            this.buttonImport.Click += new System.EventHandler(this.buttonImport_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonImport);
             this.Controls.Add(this.LoadFromJsonButton);
             this.Controls.Add(this.ClearGridButton);
             this.Controls.Add(this.LoadXMLButton);
@@ -206,6 +218,7 @@
         private System.Windows.Forms.Button LoadXMLButton;
         private System.Windows.Forms.Button ClearGridButton;
         private System.Windows.Forms.Button LoadFromJsonButton;
+        private System.Windows.Forms.Button buttonImport;
     }
 }
 

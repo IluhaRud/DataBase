@@ -11,3 +11,17 @@ C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик �
 C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\bin\Debug\Newtonsoft.Json.dll
 C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\bin\Debug\Newtonsoft.Json.xml
 C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\redl2\Documents\Repos\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\redl2\Documents\Repos\DataBase\bin\Debug\DataBase.exe
+C:\Users\redl2\Documents\Repos\DataBase\bin\Debug\DataBase.pdb
+C:\Users\redl2\Documents\Repos\DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\redl2\Documents\Repos\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.exe
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.pdb
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.ImportForm.resources
+C:\Users\redl2\Documents\Repos\DataBase\obj\Debug\DataBase.MainForm.resources

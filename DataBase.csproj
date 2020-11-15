@@ -51,6 +51,12 @@
   <ItemGroup>
     <Compile Include="DataBase.cs" />
     <Compile Include="Departament.cs" />
+    <Compile Include="ImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportForm.Designer.cs">
+      <DependentUpon>ImportForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Worker.cs" />
+    <EmbeddedResource Include="ImportForm.resx">
+      <DependentUpon>ImportForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>

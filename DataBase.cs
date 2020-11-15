@@ -9,7 +9,7 @@ using System.Xml.Serialization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace DatatBase
+namespace DataBase
 {
     public class DataBase
     {
@@ -177,6 +177,64 @@ namespace DatatBase
             }
 
             return  new DataBase(departaments);
+        }
+        public List<Worker> ImportDataBase(string[] values)
+        {
+            List<Worker> workers = new List<Worker>();
+
+            for (int i = 0; i < departaments.Count; i++)
+            {
+                int id;
+                string name;
+                string lastName;
+                int age;
+                string departament;
+                int salary;
+                int projects;
+
+                for (int j = 0; j < departaments[i].workers.Count; j++)
+                {
+                    if (values[0] == String.Empty)
+                        id = departaments[i].workers[j].id;
+                    else id = Convert.ToInt32(values[0]);
+
+                    if (values[1] == String.Empty)
+                        name = departaments[i].workers[j].name;
+                    else name = values[1];
+
+                    if (values[2] == String.Empty)
+                        lastName = departaments[i].workers[j].lastName;
+                    else lastName = values[2];
+
+                    if (values[3] == String.Empty)
+                        age = departaments[i].workers[j].age;
+                    else age = Convert.ToInt32(values[3]);
+
+                    if (values[4] == String.Empty)
+                        departament = departaments[i].workers[j].departament;
+                    else departament = values[4];
+
+                    if (values[5] == String.Empty)
+                        salary = departaments[i].workers[j].salary;
+                    else salary = Convert.ToInt32(values[5]);
+
+                    if (values[6] == String.Empty)
+                        projects = departaments[i].workers[j].projects;
+                    else projects = Convert.ToInt32(values[6]);
+
+                    Worker worker = new Worker(id, lastName, name, age, departament, salary, projects);
+
+                    if (departaments[i].workers[j].id == worker.id &&
+                        departaments[i].workers[j].name == worker.name &&
+                        departaments[i].workers[j].lastName == worker.lastName &&
+                        departaments[i].workers[j].age == worker.age &&
+                        departaments[i].workers[j].departament == worker.departament &&
+                        departaments[i].workers[j].salary == worker.salary &&
+                        departaments[i].workers[j].projects == worker.projects)
+                        workers.Add(worker);
+                }
+            }
+            return workers;
         }
     }
 }
