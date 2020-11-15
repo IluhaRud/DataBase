@@ -1,0 +1,4859 @@
+{
+  "DATA_BASE": {
+    "DEPARTAMENT 0": {
+      "id": 0,
+      "name": "Отдел 0",
+      "date_of_creation": "15.11.2020 0:48:42",
+      "staff": 107,
+      "Отдел 0": [
+        {
+          "id": 0,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 125957,
+          "projects": 3
+        },
+        {
+          "id": 1,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 50,
+          "departament": "Отдел 0",
+          "salary": 59529,
+          "projects": 3
+        },
+        {
+          "id": 2,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 48,
+          "departament": "Отдел 0",
+          "salary": 31647,
+          "projects": 3
+        },
+        {
+          "id": 3,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 95411,
+          "projects": 2
+        },
+        {
+          "id": 4,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 22,
+          "departament": "Отдел 0",
+          "salary": 130107,
+          "projects": 1
+        },
+        {
+          "id": 5,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 30,
+          "departament": "Отдел 0",
+          "salary": 69022,
+          "projects": 4
+        },
+        {
+          "id": 6,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 28,
+          "departament": "Отдел 0",
+          "salary": 83408,
+          "projects": 4
+        },
+        {
+          "id": 7,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 33931,
+          "projects": 2
+        },
+        {
+          "id": 8,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 142590,
+          "projects": 4
+        },
+        {
+          "id": 9,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 32,
+          "departament": "Отдел 0",
+          "salary": 81391,
+          "projects": 3
+        },
+        {
+          "id": 10,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 39796,
+          "projects": 2
+        },
+        {
+          "id": 11,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 50,
+          "departament": "Отдел 0",
+          "salary": 115086,
+          "projects": 1
+        },
+        {
+          "id": 12,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 39,
+          "departament": "Отдел 0",
+          "salary": 84746,
+          "projects": 2
+        },
+        {
+          "id": 13,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 33,
+          "departament": "Отдел 0",
+          "salary": 49362,
+          "projects": 2
+        },
+        {
+          "id": 14,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 34218,
+          "projects": 4
+        },
+        {
+          "id": 15,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 25727,
+          "projects": 1
+        },
+        {
+          "id": 16,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 133563,
+          "projects": 1
+        },
+        {
+          "id": 17,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 35613,
+          "projects": 4
+        },
+        {
+          "id": 18,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 33,
+          "departament": "Отдел 0",
+          "salary": 21858,
+          "projects": 1
+        },
+        {
+          "id": 19,
+          "last_name": "Крюков",
+          "name": "Андрей",
+          "age": 31,
+          "departament": "Отдел 0",
+          "salary": 88722,
+          "projects": 3
+        },
+        {
+          "id": 20,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 25,
+          "departament": "Отдел 0",
+          "salary": 28522,
+          "projects": 1
+        },
+        {
+          "id": 21,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 41,
+          "departament": "Отдел 0",
+          "salary": 48681,
+          "projects": 1
+        },
+        {
+          "id": 22,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 49,
+          "departament": "Отдел 0",
+          "salary": 88374,
+          "projects": 2
+        },
+        {
+          "id": 23,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 0",
+          "salary": 53673,
+          "projects": 4
+        },
+        {
+          "id": 24,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 0",
+          "salary": 75540,
+          "projects": 3
+        },
+        {
+          "id": 25,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 146270,
+          "projects": 1
+        },
+        {
+          "id": 26,
+          "last_name": "Сидоров",
+          "name": "Андрей",
+          "age": 39,
+          "departament": "Отдел 0",
+          "salary": 61351,
+          "projects": 3
+        },
+        {
+          "id": 27,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 110121,
+          "projects": 1
+        },
+        {
+          "id": 28,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 143095,
+          "projects": 4
+        },
+        {
+          "id": 29,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 97444,
+          "projects": 1
+        },
+        {
+          "id": 30,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 22,
+          "departament": "Отдел 0",
+          "salary": 113612,
+          "projects": 2
+        },
+        {
+          "id": 31,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 42,
+          "departament": "Отдел 0",
+          "salary": 91661,
+          "projects": 2
+        },
+        {
+          "id": 32,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 42,
+          "departament": "Отдел 0",
+          "salary": 36840,
+          "projects": 4
+        },
+        {
+          "id": 33,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 39,
+          "departament": "Отдел 0",
+          "salary": 20276,
+          "projects": 2
+        },
+        {
+          "id": 34,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 0",
+          "salary": 34945,
+          "projects": 4
+        },
+        {
+          "id": 35,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 31,
+          "departament": "Отдел 0",
+          "salary": 98071,
+          "projects": 4
+        },
+        {
+          "id": 36,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 25,
+          "departament": "Отдел 0",
+          "salary": 122313,
+          "projects": 4
+        },
+        {
+          "id": 37,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 22609,
+          "projects": 4
+        },
+        {
+          "id": 38,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 68341,
+          "projects": 1
+        },
+        {
+          "id": 39,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 43,
+          "departament": "Отдел 0",
+          "salary": 37357,
+          "projects": 3
+        },
+        {
+          "id": 40,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 61415,
+          "projects": 2
+        },
+        {
+          "id": 41,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 50,
+          "departament": "Отдел 0",
+          "salary": 120434,
+          "projects": 4
+        },
+        {
+          "id": 42,
+          "last_name": "Сидоров",
+          "name": "Артём",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 105459,
+          "projects": 4
+        },
+        {
+          "id": 43,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 49,
+          "departament": "Отдел 0",
+          "salary": 48908,
+          "projects": 3
+        },
+        {
+          "id": 44,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 38,
+          "departament": "Отдел 0",
+          "salary": 29052,
+          "projects": 2
+        },
+        {
+          "id": 45,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 41,
+          "departament": "Отдел 0",
+          "salary": 22908,
+          "projects": 1
+        },
+        {
+          "id": 46,
+          "last_name": "Иванов",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 21050,
+          "projects": 4
+        },
+        {
+          "id": 47,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 64387,
+          "projects": 3
+        },
+        {
+          "id": 48,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 45434,
+          "projects": 3
+        },
+        {
+          "id": 49,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 37,
+          "departament": "Отдел 0",
+          "salary": 71207,
+          "projects": 1
+        },
+        {
+          "id": 50,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 36,
+          "departament": "Отдел 0",
+          "salary": 97110,
+          "projects": 4
+        },
+        {
+          "id": 51,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 45,
+          "departament": "Отдел 0",
+          "salary": 144750,
+          "projects": 1
+        },
+        {
+          "id": 52,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 49,
+          "departament": "Отдел 0",
+          "salary": 113063,
+          "projects": 3
+        },
+        {
+          "id": 53,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 114363,
+          "projects": 3
+        },
+        {
+          "id": 54,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 38,
+          "departament": "Отдел 0",
+          "salary": 101924,
+          "projects": 2
+        },
+        {
+          "id": 55,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 0",
+          "salary": 88085,
+          "projects": 2
+        },
+        {
+          "id": 56,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 28,
+          "departament": "Отдел 0",
+          "salary": 129245,
+          "projects": 4
+        },
+        {
+          "id": 57,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 39,
+          "departament": "Отдел 0",
+          "salary": 21110,
+          "projects": 3
+        },
+        {
+          "id": 58,
+          "last_name": "Иванов",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 40284,
+          "projects": 4
+        },
+        {
+          "id": 59,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 0",
+          "salary": 99793,
+          "projects": 3
+        },
+        {
+          "id": 60,
+          "last_name": "Сидоров",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 133688,
+          "projects": 3
+        },
+        {
+          "id": 61,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 48,
+          "departament": "Отдел 0",
+          "salary": 58142,
+          "projects": 1
+        },
+        {
+          "id": 62,
+          "last_name": "Русинов",
+          "name": "Артём",
+          "age": 29,
+          "departament": "Отдел 0",
+          "salary": 105584,
+          "projects": 2
+        },
+        {
+          "id": 63,
+          "last_name": "Лунин",
+          "name": "Илья",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 118635,
+          "projects": 3
+        },
+        {
+          "id": 64,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 149000,
+          "projects": 2
+        },
+        {
+          "id": 65,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 33,
+          "departament": "Отдел 0",
+          "salary": 113675,
+          "projects": 2
+        },
+        {
+          "id": 66,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 139035,
+          "projects": 4
+        },
+        {
+          "id": 67,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 32,
+          "departament": "Отдел 0",
+          "salary": 62699,
+          "projects": 4
+        },
+        {
+          "id": 68,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 30,
+          "departament": "Отдел 0",
+          "salary": 142468,
+          "projects": 1
+        },
+        {
+          "id": 69,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 135474,
+          "projects": 2
+        },
+        {
+          "id": 70,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 40,
+          "departament": "Отдел 0",
+          "salary": 147372,
+          "projects": 3
+        },
+        {
+          "id": 71,
+          "last_name": "Русинов",
+          "name": "Илья",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 90132,
+          "projects": 2
+        },
+        {
+          "id": 72,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 25,
+          "departament": "Отдел 0",
+          "salary": 134985,
+          "projects": 4
+        },
+        {
+          "id": 73,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 32,
+          "departament": "Отдел 0",
+          "salary": 121846,
+          "projects": 3
+        },
+        {
+          "id": 74,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 44,
+          "departament": "Отдел 0",
+          "salary": 146125,
+          "projects": 2
+        },
+        {
+          "id": 75,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 25,
+          "departament": "Отдел 0",
+          "salary": 125741,
+          "projects": 1
+        },
+        {
+          "id": 76,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 37,
+          "departament": "Отдел 0",
+          "salary": 77235,
+          "projects": 3
+        },
+        {
+          "id": 77,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 45,
+          "departament": "Отдел 0",
+          "salary": 62939,
+          "projects": 2
+        },
+        {
+          "id": 78,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 0",
+          "salary": 30021,
+          "projects": 3
+        },
+        {
+          "id": 79,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 34,
+          "departament": "Отдел 0",
+          "salary": 34023,
+          "projects": 4
+        },
+        {
+          "id": 80,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 34,
+          "departament": "Отдел 0",
+          "salary": 62059,
+          "projects": 4
+        },
+        {
+          "id": 81,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 40,
+          "departament": "Отдел 0",
+          "salary": 97190,
+          "projects": 3
+        },
+        {
+          "id": 82,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 0",
+          "salary": 88827,
+          "projects": 1
+        },
+        {
+          "id": 83,
+          "last_name": "Сидоров",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 0",
+          "salary": 59703,
+          "projects": 1
+        },
+        {
+          "id": 84,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 21,
+          "departament": "Отдел 0",
+          "salary": 64158,
+          "projects": 4
+        },
+        {
+          "id": 85,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 42,
+          "departament": "Отдел 0",
+          "salary": 61602,
+          "projects": 2
+        },
+        {
+          "id": 86,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 22,
+          "departament": "Отдел 0",
+          "salary": 143643,
+          "projects": 3
+        },
+        {
+          "id": 87,
+          "last_name": "Русинов",
+          "name": "Петр",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 96600,
+          "projects": 2
+        },
+        {
+          "id": 88,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 118278,
+          "projects": 3
+        },
+        {
+          "id": 89,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 0",
+          "salary": 147882,
+          "projects": 2
+        },
+        {
+          "id": 90,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 140109,
+          "projects": 1
+        },
+        {
+          "id": 91,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 0",
+          "salary": 67655,
+          "projects": 4
+        },
+        {
+          "id": 92,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 31,
+          "departament": "Отдел 0",
+          "salary": 45313,
+          "projects": 2
+        },
+        {
+          "id": 93,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 22,
+          "departament": "Отдел 0",
+          "salary": 122214,
+          "projects": 3
+        },
+        {
+          "id": 94,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 138205,
+          "projects": 2
+        },
+        {
+          "id": 95,
+          "last_name": "Крюков",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 0",
+          "salary": 107684,
+          "projects": 2
+        },
+        {
+          "id": 96,
+          "last_name": "Крюков",
+          "name": "Петр",
+          "age": 42,
+          "departament": "Отдел 0",
+          "salary": 22641,
+          "projects": 1
+        },
+        {
+          "id": 97,
+          "last_name": "Петров",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 0",
+          "salary": 125810,
+          "projects": 3
+        },
+        {
+          "id": 98,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 0",
+          "salary": 127691,
+          "projects": 4
+        },
+        {
+          "id": 99,
+          "last_name": "Крюков",
+          "name": "Иван",
+          "age": 21,
+          "departament": "Отдел 0",
+          "salary": 67308,
+          "projects": 1
+        },
+        {
+          "id": 100,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 37,
+          "departament": "Отдел 0",
+          "salary": 63842,
+          "projects": 2
+        },
+        {
+          "id": 101,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 0",
+          "salary": 97794,
+          "projects": 2
+        },
+        {
+          "id": 102,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 33,
+          "departament": "Отдел 0",
+          "salary": 32935,
+          "projects": 4
+        },
+        {
+          "id": 103,
+          "last_name": "Андреев",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 0",
+          "salary": 29376,
+          "projects": 2
+        },
+        {
+          "id": 104,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 28,
+          "departament": "Отдел 0",
+          "salary": 29510,
+          "projects": 4
+        },
+        {
+          "id": 105,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 30,
+          "departament": "Отдел 0",
+          "salary": 140113,
+          "projects": 3
+        },
+        {
+          "id": 106,
+          "last_name": "Иванов",
+          "name": "Артём",
+          "age": 49,
+          "departament": "Отдел 0",
+          "salary": 97147,
+          "projects": 2
+        }
+      ]
+    },
+    "DEPARTAMENT 1": {
+      "id": 1,
+      "name": "Отдел 1",
+      "date_of_creation": "15.11.2020 0:48:42",
+      "staff": 107,
+      "Отдел 1": [
+        {
+          "id": 107,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 125957,
+          "projects": 3
+        },
+        {
+          "id": 108,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 50,
+          "departament": "Отдел 1",
+          "salary": 59529,
+          "projects": 3
+        },
+        {
+          "id": 109,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 48,
+          "departament": "Отдел 1",
+          "salary": 31647,
+          "projects": 3
+        },
+        {
+          "id": 110,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 95411,
+          "projects": 2
+        },
+        {
+          "id": 111,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 22,
+          "departament": "Отдел 1",
+          "salary": 130107,
+          "projects": 1
+        },
+        {
+          "id": 112,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 30,
+          "departament": "Отдел 1",
+          "salary": 69022,
+          "projects": 4
+        },
+        {
+          "id": 113,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 28,
+          "departament": "Отдел 1",
+          "salary": 83408,
+          "projects": 4
+        },
+        {
+          "id": 114,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 33931,
+          "projects": 2
+        },
+        {
+          "id": 115,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 142590,
+          "projects": 4
+        },
+        {
+          "id": 116,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 32,
+          "departament": "Отдел 1",
+          "salary": 81391,
+          "projects": 3
+        },
+        {
+          "id": 117,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 39796,
+          "projects": 2
+        },
+        {
+          "id": 118,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 50,
+          "departament": "Отдел 1",
+          "salary": 115086,
+          "projects": 1
+        },
+        {
+          "id": 119,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 39,
+          "departament": "Отдел 1",
+          "salary": 84746,
+          "projects": 2
+        },
+        {
+          "id": 120,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 33,
+          "departament": "Отдел 1",
+          "salary": 49362,
+          "projects": 2
+        },
+        {
+          "id": 121,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 34218,
+          "projects": 4
+        },
+        {
+          "id": 122,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 25727,
+          "projects": 1
+        },
+        {
+          "id": 123,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 133563,
+          "projects": 1
+        },
+        {
+          "id": 124,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 35613,
+          "projects": 4
+        },
+        {
+          "id": 125,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 33,
+          "departament": "Отдел 1",
+          "salary": 21858,
+          "projects": 1
+        },
+        {
+          "id": 126,
+          "last_name": "Крюков",
+          "name": "Андрей",
+          "age": 31,
+          "departament": "Отдел 1",
+          "salary": 88722,
+          "projects": 3
+        },
+        {
+          "id": 127,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 25,
+          "departament": "Отдел 1",
+          "salary": 28522,
+          "projects": 1
+        },
+        {
+          "id": 128,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 41,
+          "departament": "Отдел 1",
+          "salary": 48681,
+          "projects": 1
+        },
+        {
+          "id": 129,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 49,
+          "departament": "Отдел 1",
+          "salary": 88374,
+          "projects": 2
+        },
+        {
+          "id": 130,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 1",
+          "salary": 53673,
+          "projects": 4
+        },
+        {
+          "id": 131,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 1",
+          "salary": 75540,
+          "projects": 3
+        },
+        {
+          "id": 132,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 146270,
+          "projects": 1
+        },
+        {
+          "id": 133,
+          "last_name": "Сидоров",
+          "name": "Андрей",
+          "age": 39,
+          "departament": "Отдел 1",
+          "salary": 61351,
+          "projects": 3
+        },
+        {
+          "id": 134,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 110121,
+          "projects": 1
+        },
+        {
+          "id": 135,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 143095,
+          "projects": 4
+        },
+        {
+          "id": 136,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 97444,
+          "projects": 1
+        },
+        {
+          "id": 137,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 22,
+          "departament": "Отдел 1",
+          "salary": 113612,
+          "projects": 2
+        },
+        {
+          "id": 138,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 42,
+          "departament": "Отдел 1",
+          "salary": 91661,
+          "projects": 2
+        },
+        {
+          "id": 139,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 42,
+          "departament": "Отдел 1",
+          "salary": 36840,
+          "projects": 4
+        },
+        {
+          "id": 140,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 39,
+          "departament": "Отдел 1",
+          "salary": 20276,
+          "projects": 2
+        },
+        {
+          "id": 141,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 1",
+          "salary": 34945,
+          "projects": 4
+        },
+        {
+          "id": 142,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 31,
+          "departament": "Отдел 1",
+          "salary": 98071,
+          "projects": 4
+        },
+        {
+          "id": 143,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 25,
+          "departament": "Отдел 1",
+          "salary": 122313,
+          "projects": 4
+        },
+        {
+          "id": 144,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 22609,
+          "projects": 4
+        },
+        {
+          "id": 145,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 68341,
+          "projects": 1
+        },
+        {
+          "id": 146,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 43,
+          "departament": "Отдел 1",
+          "salary": 37357,
+          "projects": 3
+        },
+        {
+          "id": 147,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 61415,
+          "projects": 2
+        },
+        {
+          "id": 148,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 50,
+          "departament": "Отдел 1",
+          "salary": 120434,
+          "projects": 4
+        },
+        {
+          "id": 149,
+          "last_name": "Сидоров",
+          "name": "Артём",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 105459,
+          "projects": 4
+        },
+        {
+          "id": 150,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 49,
+          "departament": "Отдел 1",
+          "salary": 48908,
+          "projects": 3
+        },
+        {
+          "id": 151,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 38,
+          "departament": "Отдел 1",
+          "salary": 29052,
+          "projects": 2
+        },
+        {
+          "id": 152,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 41,
+          "departament": "Отдел 1",
+          "salary": 22908,
+          "projects": 1
+        },
+        {
+          "id": 153,
+          "last_name": "Иванов",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 21050,
+          "projects": 4
+        },
+        {
+          "id": 154,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 64387,
+          "projects": 3
+        },
+        {
+          "id": 155,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 45434,
+          "projects": 3
+        },
+        {
+          "id": 156,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 37,
+          "departament": "Отдел 1",
+          "salary": 71207,
+          "projects": 1
+        },
+        {
+          "id": 157,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 36,
+          "departament": "Отдел 1",
+          "salary": 97110,
+          "projects": 4
+        },
+        {
+          "id": 158,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 45,
+          "departament": "Отдел 1",
+          "salary": 144750,
+          "projects": 1
+        },
+        {
+          "id": 159,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 49,
+          "departament": "Отдел 1",
+          "salary": 113063,
+          "projects": 3
+        },
+        {
+          "id": 160,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 114363,
+          "projects": 3
+        },
+        {
+          "id": 161,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 38,
+          "departament": "Отдел 1",
+          "salary": 101924,
+          "projects": 2
+        },
+        {
+          "id": 162,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 1",
+          "salary": 88085,
+          "projects": 2
+        },
+        {
+          "id": 163,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 28,
+          "departament": "Отдел 1",
+          "salary": 129245,
+          "projects": 4
+        },
+        {
+          "id": 164,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 39,
+          "departament": "Отдел 1",
+          "salary": 21110,
+          "projects": 3
+        },
+        {
+          "id": 165,
+          "last_name": "Иванов",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 40284,
+          "projects": 4
+        },
+        {
+          "id": 166,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 1",
+          "salary": 99793,
+          "projects": 3
+        },
+        {
+          "id": 167,
+          "last_name": "Сидоров",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 133688,
+          "projects": 3
+        },
+        {
+          "id": 168,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 48,
+          "departament": "Отдел 1",
+          "salary": 58142,
+          "projects": 1
+        },
+        {
+          "id": 169,
+          "last_name": "Русинов",
+          "name": "Артём",
+          "age": 29,
+          "departament": "Отдел 1",
+          "salary": 105584,
+          "projects": 2
+        },
+        {
+          "id": 170,
+          "last_name": "Лунин",
+          "name": "Илья",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 118635,
+          "projects": 3
+        },
+        {
+          "id": 171,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 149000,
+          "projects": 2
+        },
+        {
+          "id": 172,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 33,
+          "departament": "Отдел 1",
+          "salary": 113675,
+          "projects": 2
+        },
+        {
+          "id": 173,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 139035,
+          "projects": 4
+        },
+        {
+          "id": 174,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 32,
+          "departament": "Отдел 1",
+          "salary": 62699,
+          "projects": 4
+        },
+        {
+          "id": 175,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 30,
+          "departament": "Отдел 1",
+          "salary": 142468,
+          "projects": 1
+        },
+        {
+          "id": 176,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 135474,
+          "projects": 2
+        },
+        {
+          "id": 177,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 40,
+          "departament": "Отдел 1",
+          "salary": 147372,
+          "projects": 3
+        },
+        {
+          "id": 178,
+          "last_name": "Русинов",
+          "name": "Илья",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 90132,
+          "projects": 2
+        },
+        {
+          "id": 179,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 25,
+          "departament": "Отдел 1",
+          "salary": 134985,
+          "projects": 4
+        },
+        {
+          "id": 180,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 32,
+          "departament": "Отдел 1",
+          "salary": 121846,
+          "projects": 3
+        },
+        {
+          "id": 181,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 44,
+          "departament": "Отдел 1",
+          "salary": 146125,
+          "projects": 2
+        },
+        {
+          "id": 182,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 25,
+          "departament": "Отдел 1",
+          "salary": 125741,
+          "projects": 1
+        },
+        {
+          "id": 183,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 37,
+          "departament": "Отдел 1",
+          "salary": 77235,
+          "projects": 3
+        },
+        {
+          "id": 184,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 45,
+          "departament": "Отдел 1",
+          "salary": 62939,
+          "projects": 2
+        },
+        {
+          "id": 185,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 1",
+          "salary": 30021,
+          "projects": 3
+        },
+        {
+          "id": 186,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 34,
+          "departament": "Отдел 1",
+          "salary": 34023,
+          "projects": 4
+        },
+        {
+          "id": 187,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 34,
+          "departament": "Отдел 1",
+          "salary": 62059,
+          "projects": 4
+        },
+        {
+          "id": 188,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 40,
+          "departament": "Отдел 1",
+          "salary": 97190,
+          "projects": 3
+        },
+        {
+          "id": 189,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 1",
+          "salary": 88827,
+          "projects": 1
+        },
+        {
+          "id": 190,
+          "last_name": "Сидоров",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 1",
+          "salary": 59703,
+          "projects": 1
+        },
+        {
+          "id": 191,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 21,
+          "departament": "Отдел 1",
+          "salary": 64158,
+          "projects": 4
+        },
+        {
+          "id": 192,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 42,
+          "departament": "Отдел 1",
+          "salary": 61602,
+          "projects": 2
+        },
+        {
+          "id": 193,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 22,
+          "departament": "Отдел 1",
+          "salary": 143643,
+          "projects": 3
+        },
+        {
+          "id": 194,
+          "last_name": "Русинов",
+          "name": "Петр",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 96600,
+          "projects": 2
+        },
+        {
+          "id": 195,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 118278,
+          "projects": 3
+        },
+        {
+          "id": 196,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 1",
+          "salary": 147882,
+          "projects": 2
+        },
+        {
+          "id": 197,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 140109,
+          "projects": 1
+        },
+        {
+          "id": 198,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 1",
+          "salary": 67655,
+          "projects": 4
+        },
+        {
+          "id": 199,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 31,
+          "departament": "Отдел 1",
+          "salary": 45313,
+          "projects": 2
+        },
+        {
+          "id": 200,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 22,
+          "departament": "Отдел 1",
+          "salary": 122214,
+          "projects": 3
+        },
+        {
+          "id": 201,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 138205,
+          "projects": 2
+        },
+        {
+          "id": 202,
+          "last_name": "Крюков",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 1",
+          "salary": 107684,
+          "projects": 2
+        },
+        {
+          "id": 203,
+          "last_name": "Крюков",
+          "name": "Петр",
+          "age": 42,
+          "departament": "Отдел 1",
+          "salary": 22641,
+          "projects": 1
+        },
+        {
+          "id": 204,
+          "last_name": "Петров",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 1",
+          "salary": 125810,
+          "projects": 3
+        },
+        {
+          "id": 205,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 1",
+          "salary": 127691,
+          "projects": 4
+        },
+        {
+          "id": 206,
+          "last_name": "Крюков",
+          "name": "Иван",
+          "age": 21,
+          "departament": "Отдел 1",
+          "salary": 67308,
+          "projects": 1
+        },
+        {
+          "id": 207,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 37,
+          "departament": "Отдел 1",
+          "salary": 63842,
+          "projects": 2
+        },
+        {
+          "id": 208,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 1",
+          "salary": 97794,
+          "projects": 2
+        },
+        {
+          "id": 209,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 33,
+          "departament": "Отдел 1",
+          "salary": 32935,
+          "projects": 4
+        },
+        {
+          "id": 210,
+          "last_name": "Андреев",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 1",
+          "salary": 29376,
+          "projects": 2
+        },
+        {
+          "id": 211,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 28,
+          "departament": "Отдел 1",
+          "salary": 29510,
+          "projects": 4
+        },
+        {
+          "id": 212,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 30,
+          "departament": "Отдел 1",
+          "salary": 140113,
+          "projects": 3
+        },
+        {
+          "id": 213,
+          "last_name": "Иванов",
+          "name": "Артём",
+          "age": 49,
+          "departament": "Отдел 1",
+          "salary": 97147,
+          "projects": 2
+        }
+      ]
+    },
+    "DEPARTAMENT 2": {
+      "id": 2,
+      "name": "Отдел 2",
+      "date_of_creation": "15.11.2020 0:48:42",
+      "staff": 107,
+      "Отдел 2": [
+        {
+          "id": 214,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 125957,
+          "projects": 3
+        },
+        {
+          "id": 215,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 50,
+          "departament": "Отдел 2",
+          "salary": 59529,
+          "projects": 3
+        },
+        {
+          "id": 216,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 48,
+          "departament": "Отдел 2",
+          "salary": 31647,
+          "projects": 3
+        },
+        {
+          "id": 217,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 95411,
+          "projects": 2
+        },
+        {
+          "id": 218,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 22,
+          "departament": "Отдел 2",
+          "salary": 130107,
+          "projects": 1
+        },
+        {
+          "id": 219,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 30,
+          "departament": "Отдел 2",
+          "salary": 69022,
+          "projects": 4
+        },
+        {
+          "id": 220,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 28,
+          "departament": "Отдел 2",
+          "salary": 83408,
+          "projects": 4
+        },
+        {
+          "id": 221,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 33931,
+          "projects": 2
+        },
+        {
+          "id": 222,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 142590,
+          "projects": 4
+        },
+        {
+          "id": 223,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 32,
+          "departament": "Отдел 2",
+          "salary": 81391,
+          "projects": 3
+        },
+        {
+          "id": 224,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 39796,
+          "projects": 2
+        },
+        {
+          "id": 225,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 50,
+          "departament": "Отдел 2",
+          "salary": 115086,
+          "projects": 1
+        },
+        {
+          "id": 226,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 39,
+          "departament": "Отдел 2",
+          "salary": 84746,
+          "projects": 2
+        },
+        {
+          "id": 227,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 33,
+          "departament": "Отдел 2",
+          "salary": 49362,
+          "projects": 2
+        },
+        {
+          "id": 228,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 34218,
+          "projects": 4
+        },
+        {
+          "id": 229,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 25727,
+          "projects": 1
+        },
+        {
+          "id": 230,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 133563,
+          "projects": 1
+        },
+        {
+          "id": 231,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 35613,
+          "projects": 4
+        },
+        {
+          "id": 232,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 33,
+          "departament": "Отдел 2",
+          "salary": 21858,
+          "projects": 1
+        },
+        {
+          "id": 233,
+          "last_name": "Крюков",
+          "name": "Андрей",
+          "age": 31,
+          "departament": "Отдел 2",
+          "salary": 88722,
+          "projects": 3
+        },
+        {
+          "id": 234,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 25,
+          "departament": "Отдел 2",
+          "salary": 28522,
+          "projects": 1
+        },
+        {
+          "id": 235,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 41,
+          "departament": "Отдел 2",
+          "salary": 48681,
+          "projects": 1
+        },
+        {
+          "id": 236,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 49,
+          "departament": "Отдел 2",
+          "salary": 88374,
+          "projects": 2
+        },
+        {
+          "id": 237,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 2",
+          "salary": 53673,
+          "projects": 4
+        },
+        {
+          "id": 238,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 2",
+          "salary": 75540,
+          "projects": 3
+        },
+        {
+          "id": 239,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 146270,
+          "projects": 1
+        },
+        {
+          "id": 240,
+          "last_name": "Сидоров",
+          "name": "Андрей",
+          "age": 39,
+          "departament": "Отдел 2",
+          "salary": 61351,
+          "projects": 3
+        },
+        {
+          "id": 241,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 110121,
+          "projects": 1
+        },
+        {
+          "id": 242,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 143095,
+          "projects": 4
+        },
+        {
+          "id": 243,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 97444,
+          "projects": 1
+        },
+        {
+          "id": 244,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 22,
+          "departament": "Отдел 2",
+          "salary": 113612,
+          "projects": 2
+        },
+        {
+          "id": 245,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 42,
+          "departament": "Отдел 2",
+          "salary": 91661,
+          "projects": 2
+        },
+        {
+          "id": 246,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 42,
+          "departament": "Отдел 2",
+          "salary": 36840,
+          "projects": 4
+        },
+        {
+          "id": 247,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 39,
+          "departament": "Отдел 2",
+          "salary": 20276,
+          "projects": 2
+        },
+        {
+          "id": 248,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 2",
+          "salary": 34945,
+          "projects": 4
+        },
+        {
+          "id": 249,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 31,
+          "departament": "Отдел 2",
+          "salary": 98071,
+          "projects": 4
+        },
+        {
+          "id": 250,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 25,
+          "departament": "Отдел 2",
+          "salary": 122313,
+          "projects": 4
+        },
+        {
+          "id": 251,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 22609,
+          "projects": 4
+        },
+        {
+          "id": 252,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 68341,
+          "projects": 1
+        },
+        {
+          "id": 253,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 43,
+          "departament": "Отдел 2",
+          "salary": 37357,
+          "projects": 3
+        },
+        {
+          "id": 254,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 61415,
+          "projects": 2
+        },
+        {
+          "id": 255,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 50,
+          "departament": "Отдел 2",
+          "salary": 120434,
+          "projects": 4
+        },
+        {
+          "id": 256,
+          "last_name": "Сидоров",
+          "name": "Артём",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 105459,
+          "projects": 4
+        },
+        {
+          "id": 257,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 49,
+          "departament": "Отдел 2",
+          "salary": 48908,
+          "projects": 3
+        },
+        {
+          "id": 258,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 38,
+          "departament": "Отдел 2",
+          "salary": 29052,
+          "projects": 2
+        },
+        {
+          "id": 259,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 41,
+          "departament": "Отдел 2",
+          "salary": 22908,
+          "projects": 1
+        },
+        {
+          "id": 260,
+          "last_name": "Иванов",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 21050,
+          "projects": 4
+        },
+        {
+          "id": 261,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 64387,
+          "projects": 3
+        },
+        {
+          "id": 262,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 45434,
+          "projects": 3
+        },
+        {
+          "id": 263,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 37,
+          "departament": "Отдел 2",
+          "salary": 71207,
+          "projects": 1
+        },
+        {
+          "id": 264,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 36,
+          "departament": "Отдел 2",
+          "salary": 97110,
+          "projects": 4
+        },
+        {
+          "id": 265,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 45,
+          "departament": "Отдел 2",
+          "salary": 144750,
+          "projects": 1
+        },
+        {
+          "id": 266,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 49,
+          "departament": "Отдел 2",
+          "salary": 113063,
+          "projects": 3
+        },
+        {
+          "id": 267,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 114363,
+          "projects": 3
+        },
+        {
+          "id": 268,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 38,
+          "departament": "Отдел 2",
+          "salary": 101924,
+          "projects": 2
+        },
+        {
+          "id": 269,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 2",
+          "salary": 88085,
+          "projects": 2
+        },
+        {
+          "id": 270,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 28,
+          "departament": "Отдел 2",
+          "salary": 129245,
+          "projects": 4
+        },
+        {
+          "id": 271,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 39,
+          "departament": "Отдел 2",
+          "salary": 21110,
+          "projects": 3
+        },
+        {
+          "id": 272,
+          "last_name": "Иванов",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 40284,
+          "projects": 4
+        },
+        {
+          "id": 273,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 2",
+          "salary": 99793,
+          "projects": 3
+        },
+        {
+          "id": 274,
+          "last_name": "Сидоров",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 133688,
+          "projects": 3
+        },
+        {
+          "id": 275,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 48,
+          "departament": "Отдел 2",
+          "salary": 58142,
+          "projects": 1
+        },
+        {
+          "id": 276,
+          "last_name": "Русинов",
+          "name": "Артём",
+          "age": 29,
+          "departament": "Отдел 2",
+          "salary": 105584,
+          "projects": 2
+        },
+        {
+          "id": 277,
+          "last_name": "Лунин",
+          "name": "Илья",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 118635,
+          "projects": 3
+        },
+        {
+          "id": 278,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 149000,
+          "projects": 2
+        },
+        {
+          "id": 279,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 33,
+          "departament": "Отдел 2",
+          "salary": 113675,
+          "projects": 2
+        },
+        {
+          "id": 280,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 139035,
+          "projects": 4
+        },
+        {
+          "id": 281,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 32,
+          "departament": "Отдел 2",
+          "salary": 62699,
+          "projects": 4
+        },
+        {
+          "id": 282,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 30,
+          "departament": "Отдел 2",
+          "salary": 142468,
+          "projects": 1
+        },
+        {
+          "id": 283,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 135474,
+          "projects": 2
+        },
+        {
+          "id": 284,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 40,
+          "departament": "Отдел 2",
+          "salary": 147372,
+          "projects": 3
+        },
+        {
+          "id": 285,
+          "last_name": "Русинов",
+          "name": "Илья",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 90132,
+          "projects": 2
+        },
+        {
+          "id": 286,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 25,
+          "departament": "Отдел 2",
+          "salary": 134985,
+          "projects": 4
+        },
+        {
+          "id": 287,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 32,
+          "departament": "Отдел 2",
+          "salary": 121846,
+          "projects": 3
+        },
+        {
+          "id": 288,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 44,
+          "departament": "Отдел 2",
+          "salary": 146125,
+          "projects": 2
+        },
+        {
+          "id": 289,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 25,
+          "departament": "Отдел 2",
+          "salary": 125741,
+          "projects": 1
+        },
+        {
+          "id": 290,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 37,
+          "departament": "Отдел 2",
+          "salary": 77235,
+          "projects": 3
+        },
+        {
+          "id": 291,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 45,
+          "departament": "Отдел 2",
+          "salary": 62939,
+          "projects": 2
+        },
+        {
+          "id": 292,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 2",
+          "salary": 30021,
+          "projects": 3
+        },
+        {
+          "id": 293,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 34,
+          "departament": "Отдел 2",
+          "salary": 34023,
+          "projects": 4
+        },
+        {
+          "id": 294,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 34,
+          "departament": "Отдел 2",
+          "salary": 62059,
+          "projects": 4
+        },
+        {
+          "id": 295,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 40,
+          "departament": "Отдел 2",
+          "salary": 97190,
+          "projects": 3
+        },
+        {
+          "id": 296,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 2",
+          "salary": 88827,
+          "projects": 1
+        },
+        {
+          "id": 297,
+          "last_name": "Сидоров",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 2",
+          "salary": 59703,
+          "projects": 1
+        },
+        {
+          "id": 298,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 21,
+          "departament": "Отдел 2",
+          "salary": 64158,
+          "projects": 4
+        },
+        {
+          "id": 299,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 42,
+          "departament": "Отдел 2",
+          "salary": 61602,
+          "projects": 2
+        },
+        {
+          "id": 300,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 22,
+          "departament": "Отдел 2",
+          "salary": 143643,
+          "projects": 3
+        },
+        {
+          "id": 301,
+          "last_name": "Русинов",
+          "name": "Петр",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 96600,
+          "projects": 2
+        },
+        {
+          "id": 302,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 118278,
+          "projects": 3
+        },
+        {
+          "id": 303,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 2",
+          "salary": 147882,
+          "projects": 2
+        },
+        {
+          "id": 304,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 140109,
+          "projects": 1
+        },
+        {
+          "id": 305,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 2",
+          "salary": 67655,
+          "projects": 4
+        },
+        {
+          "id": 306,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 31,
+          "departament": "Отдел 2",
+          "salary": 45313,
+          "projects": 2
+        },
+        {
+          "id": 307,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 22,
+          "departament": "Отдел 2",
+          "salary": 122214,
+          "projects": 3
+        },
+        {
+          "id": 308,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 138205,
+          "projects": 2
+        },
+        {
+          "id": 309,
+          "last_name": "Крюков",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 2",
+          "salary": 107684,
+          "projects": 2
+        },
+        {
+          "id": 310,
+          "last_name": "Крюков",
+          "name": "Петр",
+          "age": 42,
+          "departament": "Отдел 2",
+          "salary": 22641,
+          "projects": 1
+        },
+        {
+          "id": 311,
+          "last_name": "Петров",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 2",
+          "salary": 125810,
+          "projects": 3
+        },
+        {
+          "id": 312,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 2",
+          "salary": 127691,
+          "projects": 4
+        },
+        {
+          "id": 313,
+          "last_name": "Крюков",
+          "name": "Иван",
+          "age": 21,
+          "departament": "Отдел 2",
+          "salary": 67308,
+          "projects": 1
+        },
+        {
+          "id": 314,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 37,
+          "departament": "Отдел 2",
+          "salary": 63842,
+          "projects": 2
+        },
+        {
+          "id": 315,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 2",
+          "salary": 97794,
+          "projects": 2
+        },
+        {
+          "id": 316,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 33,
+          "departament": "Отдел 2",
+          "salary": 32935,
+          "projects": 4
+        },
+        {
+          "id": 317,
+          "last_name": "Андреев",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 2",
+          "salary": 29376,
+          "projects": 2
+        },
+        {
+          "id": 318,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 28,
+          "departament": "Отдел 2",
+          "salary": 29510,
+          "projects": 4
+        },
+        {
+          "id": 319,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 30,
+          "departament": "Отдел 2",
+          "salary": 140113,
+          "projects": 3
+        },
+        {
+          "id": 320,
+          "last_name": "Иванов",
+          "name": "Артём",
+          "age": 49,
+          "departament": "Отдел 2",
+          "salary": 97147,
+          "projects": 2
+        }
+      ]
+    },
+    "DEPARTAMENT 3": {
+      "id": 3,
+      "name": "Отдел 3",
+      "date_of_creation": "15.11.2020 0:48:42",
+      "staff": 107,
+      "Отдел 3": [
+        {
+          "id": 321,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 125957,
+          "projects": 3
+        },
+        {
+          "id": 322,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 50,
+          "departament": "Отдел 3",
+          "salary": 59529,
+          "projects": 3
+        },
+        {
+          "id": 323,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 48,
+          "departament": "Отдел 3",
+          "salary": 31647,
+          "projects": 3
+        },
+        {
+          "id": 324,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 95411,
+          "projects": 2
+        },
+        {
+          "id": 325,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 22,
+          "departament": "Отдел 3",
+          "salary": 130107,
+          "projects": 1
+        },
+        {
+          "id": 326,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 30,
+          "departament": "Отдел 3",
+          "salary": 69022,
+          "projects": 4
+        },
+        {
+          "id": 327,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 28,
+          "departament": "Отдел 3",
+          "salary": 83408,
+          "projects": 4
+        },
+        {
+          "id": 328,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 33931,
+          "projects": 2
+        },
+        {
+          "id": 329,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 142590,
+          "projects": 4
+        },
+        {
+          "id": 330,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 32,
+          "departament": "Отдел 3",
+          "salary": 81391,
+          "projects": 3
+        },
+        {
+          "id": 331,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 39796,
+          "projects": 2
+        },
+        {
+          "id": 332,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 50,
+          "departament": "Отдел 3",
+          "salary": 115086,
+          "projects": 1
+        },
+        {
+          "id": 333,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 39,
+          "departament": "Отдел 3",
+          "salary": 84746,
+          "projects": 2
+        },
+        {
+          "id": 334,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 33,
+          "departament": "Отдел 3",
+          "salary": 49362,
+          "projects": 2
+        },
+        {
+          "id": 335,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 34218,
+          "projects": 4
+        },
+        {
+          "id": 336,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 25727,
+          "projects": 1
+        },
+        {
+          "id": 337,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 133563,
+          "projects": 1
+        },
+        {
+          "id": 338,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 35613,
+          "projects": 4
+        },
+        {
+          "id": 339,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 33,
+          "departament": "Отдел 3",
+          "salary": 21858,
+          "projects": 1
+        },
+        {
+          "id": 340,
+          "last_name": "Крюков",
+          "name": "Андрей",
+          "age": 31,
+          "departament": "Отдел 3",
+          "salary": 88722,
+          "projects": 3
+        },
+        {
+          "id": 341,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 25,
+          "departament": "Отдел 3",
+          "salary": 28522,
+          "projects": 1
+        },
+        {
+          "id": 342,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 41,
+          "departament": "Отдел 3",
+          "salary": 48681,
+          "projects": 1
+        },
+        {
+          "id": 343,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 49,
+          "departament": "Отдел 3",
+          "salary": 88374,
+          "projects": 2
+        },
+        {
+          "id": 344,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 3",
+          "salary": 53673,
+          "projects": 4
+        },
+        {
+          "id": 345,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 3",
+          "salary": 75540,
+          "projects": 3
+        },
+        {
+          "id": 346,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 146270,
+          "projects": 1
+        },
+        {
+          "id": 347,
+          "last_name": "Сидоров",
+          "name": "Андрей",
+          "age": 39,
+          "departament": "Отдел 3",
+          "salary": 61351,
+          "projects": 3
+        },
+        {
+          "id": 348,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 110121,
+          "projects": 1
+        },
+        {
+          "id": 349,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 143095,
+          "projects": 4
+        },
+        {
+          "id": 350,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 97444,
+          "projects": 1
+        },
+        {
+          "id": 351,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 22,
+          "departament": "Отдел 3",
+          "salary": 113612,
+          "projects": 2
+        },
+        {
+          "id": 352,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 42,
+          "departament": "Отдел 3",
+          "salary": 91661,
+          "projects": 2
+        },
+        {
+          "id": 353,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 42,
+          "departament": "Отдел 3",
+          "salary": 36840,
+          "projects": 4
+        },
+        {
+          "id": 354,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 39,
+          "departament": "Отдел 3",
+          "salary": 20276,
+          "projects": 2
+        },
+        {
+          "id": 355,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 3",
+          "salary": 34945,
+          "projects": 4
+        },
+        {
+          "id": 356,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 31,
+          "departament": "Отдел 3",
+          "salary": 98071,
+          "projects": 4
+        },
+        {
+          "id": 357,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 25,
+          "departament": "Отдел 3",
+          "salary": 122313,
+          "projects": 4
+        },
+        {
+          "id": 358,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 22609,
+          "projects": 4
+        },
+        {
+          "id": 359,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 68341,
+          "projects": 1
+        },
+        {
+          "id": 360,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 43,
+          "departament": "Отдел 3",
+          "salary": 37357,
+          "projects": 3
+        },
+        {
+          "id": 361,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 61415,
+          "projects": 2
+        },
+        {
+          "id": 362,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 50,
+          "departament": "Отдел 3",
+          "salary": 120434,
+          "projects": 4
+        },
+        {
+          "id": 363,
+          "last_name": "Сидоров",
+          "name": "Артём",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 105459,
+          "projects": 4
+        },
+        {
+          "id": 364,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 49,
+          "departament": "Отдел 3",
+          "salary": 48908,
+          "projects": 3
+        },
+        {
+          "id": 365,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 38,
+          "departament": "Отдел 3",
+          "salary": 29052,
+          "projects": 2
+        },
+        {
+          "id": 366,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 41,
+          "departament": "Отдел 3",
+          "salary": 22908,
+          "projects": 1
+        },
+        {
+          "id": 367,
+          "last_name": "Иванов",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 21050,
+          "projects": 4
+        },
+        {
+          "id": 368,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 64387,
+          "projects": 3
+        },
+        {
+          "id": 369,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 45434,
+          "projects": 3
+        },
+        {
+          "id": 370,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 37,
+          "departament": "Отдел 3",
+          "salary": 71207,
+          "projects": 1
+        },
+        {
+          "id": 371,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 36,
+          "departament": "Отдел 3",
+          "salary": 97110,
+          "projects": 4
+        },
+        {
+          "id": 372,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 45,
+          "departament": "Отдел 3",
+          "salary": 144750,
+          "projects": 1
+        },
+        {
+          "id": 373,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 49,
+          "departament": "Отдел 3",
+          "salary": 113063,
+          "projects": 3
+        },
+        {
+          "id": 374,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 114363,
+          "projects": 3
+        },
+        {
+          "id": 375,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 38,
+          "departament": "Отдел 3",
+          "salary": 101924,
+          "projects": 2
+        },
+        {
+          "id": 376,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 3",
+          "salary": 88085,
+          "projects": 2
+        },
+        {
+          "id": 377,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 28,
+          "departament": "Отдел 3",
+          "salary": 129245,
+          "projects": 4
+        },
+        {
+          "id": 378,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 39,
+          "departament": "Отдел 3",
+          "salary": 21110,
+          "projects": 3
+        },
+        {
+          "id": 379,
+          "last_name": "Иванов",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 40284,
+          "projects": 4
+        },
+        {
+          "id": 380,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 3",
+          "salary": 99793,
+          "projects": 3
+        },
+        {
+          "id": 381,
+          "last_name": "Сидоров",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 133688,
+          "projects": 3
+        },
+        {
+          "id": 382,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 48,
+          "departament": "Отдел 3",
+          "salary": 58142,
+          "projects": 1
+        },
+        {
+          "id": 383,
+          "last_name": "Русинов",
+          "name": "Артём",
+          "age": 29,
+          "departament": "Отдел 3",
+          "salary": 105584,
+          "projects": 2
+        },
+        {
+          "id": 384,
+          "last_name": "Лунин",
+          "name": "Илья",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 118635,
+          "projects": 3
+        },
+        {
+          "id": 385,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 149000,
+          "projects": 2
+        },
+        {
+          "id": 386,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 33,
+          "departament": "Отдел 3",
+          "salary": 113675,
+          "projects": 2
+        },
+        {
+          "id": 387,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 139035,
+          "projects": 4
+        },
+        {
+          "id": 388,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 32,
+          "departament": "Отдел 3",
+          "salary": 62699,
+          "projects": 4
+        },
+        {
+          "id": 389,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 30,
+          "departament": "Отдел 3",
+          "salary": 142468,
+          "projects": 1
+        },
+        {
+          "id": 390,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 135474,
+          "projects": 2
+        },
+        {
+          "id": 391,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 40,
+          "departament": "Отдел 3",
+          "salary": 147372,
+          "projects": 3
+        },
+        {
+          "id": 392,
+          "last_name": "Русинов",
+          "name": "Илья",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 90132,
+          "projects": 2
+        },
+        {
+          "id": 393,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 25,
+          "departament": "Отдел 3",
+          "salary": 134985,
+          "projects": 4
+        },
+        {
+          "id": 394,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 32,
+          "departament": "Отдел 3",
+          "salary": 121846,
+          "projects": 3
+        },
+        {
+          "id": 395,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 44,
+          "departament": "Отдел 3",
+          "salary": 146125,
+          "projects": 2
+        },
+        {
+          "id": 396,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 25,
+          "departament": "Отдел 3",
+          "salary": 125741,
+          "projects": 1
+        },
+        {
+          "id": 397,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 37,
+          "departament": "Отдел 3",
+          "salary": 77235,
+          "projects": 3
+        },
+        {
+          "id": 398,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 45,
+          "departament": "Отдел 3",
+          "salary": 62939,
+          "projects": 2
+        },
+        {
+          "id": 399,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 3",
+          "salary": 30021,
+          "projects": 3
+        },
+        {
+          "id": 400,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 34,
+          "departament": "Отдел 3",
+          "salary": 34023,
+          "projects": 4
+        },
+        {
+          "id": 401,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 34,
+          "departament": "Отдел 3",
+          "salary": 62059,
+          "projects": 4
+        },
+        {
+          "id": 402,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 40,
+          "departament": "Отдел 3",
+          "salary": 97190,
+          "projects": 3
+        },
+        {
+          "id": 403,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 3",
+          "salary": 88827,
+          "projects": 1
+        },
+        {
+          "id": 404,
+          "last_name": "Сидоров",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 3",
+          "salary": 59703,
+          "projects": 1
+        },
+        {
+          "id": 405,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 21,
+          "departament": "Отдел 3",
+          "salary": 64158,
+          "projects": 4
+        },
+        {
+          "id": 406,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 42,
+          "departament": "Отдел 3",
+          "salary": 61602,
+          "projects": 2
+        },
+        {
+          "id": 407,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 22,
+          "departament": "Отдел 3",
+          "salary": 143643,
+          "projects": 3
+        },
+        {
+          "id": 408,
+          "last_name": "Русинов",
+          "name": "Петр",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 96600,
+          "projects": 2
+        },
+        {
+          "id": 409,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 118278,
+          "projects": 3
+        },
+        {
+          "id": 410,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 3",
+          "salary": 147882,
+          "projects": 2
+        },
+        {
+          "id": 411,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 140109,
+          "projects": 1
+        },
+        {
+          "id": 412,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 3",
+          "salary": 67655,
+          "projects": 4
+        },
+        {
+          "id": 413,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 31,
+          "departament": "Отдел 3",
+          "salary": 45313,
+          "projects": 2
+        },
+        {
+          "id": 414,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 22,
+          "departament": "Отдел 3",
+          "salary": 122214,
+          "projects": 3
+        },
+        {
+          "id": 415,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 138205,
+          "projects": 2
+        },
+        {
+          "id": 416,
+          "last_name": "Крюков",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 3",
+          "salary": 107684,
+          "projects": 2
+        },
+        {
+          "id": 417,
+          "last_name": "Крюков",
+          "name": "Петр",
+          "age": 42,
+          "departament": "Отдел 3",
+          "salary": 22641,
+          "projects": 1
+        },
+        {
+          "id": 418,
+          "last_name": "Петров",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 3",
+          "salary": 125810,
+          "projects": 3
+        },
+        {
+          "id": 419,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 3",
+          "salary": 127691,
+          "projects": 4
+        },
+        {
+          "id": 420,
+          "last_name": "Крюков",
+          "name": "Иван",
+          "age": 21,
+          "departament": "Отдел 3",
+          "salary": 67308,
+          "projects": 1
+        },
+        {
+          "id": 421,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 37,
+          "departament": "Отдел 3",
+          "salary": 63842,
+          "projects": 2
+        },
+        {
+          "id": 422,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 3",
+          "salary": 97794,
+          "projects": 2
+        },
+        {
+          "id": 423,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 33,
+          "departament": "Отдел 3",
+          "salary": 32935,
+          "projects": 4
+        },
+        {
+          "id": 424,
+          "last_name": "Андреев",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 3",
+          "salary": 29376,
+          "projects": 2
+        },
+        {
+          "id": 425,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 28,
+          "departament": "Отдел 3",
+          "salary": 29510,
+          "projects": 4
+        },
+        {
+          "id": 426,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 30,
+          "departament": "Отдел 3",
+          "salary": 140113,
+          "projects": 3
+        },
+        {
+          "id": 427,
+          "last_name": "Иванов",
+          "name": "Артём",
+          "age": 49,
+          "departament": "Отдел 3",
+          "salary": 97147,
+          "projects": 2
+        }
+      ]
+    },
+    "DEPARTAMENT 4": {
+      "id": 4,
+      "name": "Отдел 4",
+      "date_of_creation": "15.11.2020 0:48:42",
+      "staff": 107,
+      "Отдел 4": [
+        {
+          "id": 428,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 125957,
+          "projects": 3
+        },
+        {
+          "id": 429,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 50,
+          "departament": "Отдел 4",
+          "salary": 59529,
+          "projects": 3
+        },
+        {
+          "id": 430,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 48,
+          "departament": "Отдел 4",
+          "salary": 31647,
+          "projects": 3
+        },
+        {
+          "id": 431,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 95411,
+          "projects": 2
+        },
+        {
+          "id": 432,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 22,
+          "departament": "Отдел 4",
+          "salary": 130107,
+          "projects": 1
+        },
+        {
+          "id": 433,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 30,
+          "departament": "Отдел 4",
+          "salary": 69022,
+          "projects": 4
+        },
+        {
+          "id": 434,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 28,
+          "departament": "Отдел 4",
+          "salary": 83408,
+          "projects": 4
+        },
+        {
+          "id": 435,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 33931,
+          "projects": 2
+        },
+        {
+          "id": 436,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 142590,
+          "projects": 4
+        },
+        {
+          "id": 437,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 32,
+          "departament": "Отдел 4",
+          "salary": 81391,
+          "projects": 3
+        },
+        {
+          "id": 438,
+          "last_name": "Русинов",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 39796,
+          "projects": 2
+        },
+        {
+          "id": 439,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 50,
+          "departament": "Отдел 4",
+          "salary": 115086,
+          "projects": 1
+        },
+        {
+          "id": 440,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 39,
+          "departament": "Отдел 4",
+          "salary": 84746,
+          "projects": 2
+        },
+        {
+          "id": 441,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 33,
+          "departament": "Отдел 4",
+          "salary": 49362,
+          "projects": 2
+        },
+        {
+          "id": 442,
+          "last_name": "Сидоров",
+          "name": "Иван",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 34218,
+          "projects": 4
+        },
+        {
+          "id": 443,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 25727,
+          "projects": 1
+        },
+        {
+          "id": 444,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 133563,
+          "projects": 1
+        },
+        {
+          "id": 445,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 35613,
+          "projects": 4
+        },
+        {
+          "id": 446,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 33,
+          "departament": "Отдел 4",
+          "salary": 21858,
+          "projects": 1
+        },
+        {
+          "id": 447,
+          "last_name": "Крюков",
+          "name": "Андрей",
+          "age": 31,
+          "departament": "Отдел 4",
+          "salary": 88722,
+          "projects": 3
+        },
+        {
+          "id": 448,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 25,
+          "departament": "Отдел 4",
+          "salary": 28522,
+          "projects": 1
+        },
+        {
+          "id": 449,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 41,
+          "departament": "Отдел 4",
+          "salary": 48681,
+          "projects": 1
+        },
+        {
+          "id": 450,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 49,
+          "departament": "Отдел 4",
+          "salary": 88374,
+          "projects": 2
+        },
+        {
+          "id": 451,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 4",
+          "salary": 53673,
+          "projects": 4
+        },
+        {
+          "id": 452,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 4",
+          "salary": 75540,
+          "projects": 3
+        },
+        {
+          "id": 453,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 146270,
+          "projects": 1
+        },
+        {
+          "id": 454,
+          "last_name": "Сидоров",
+          "name": "Андрей",
+          "age": 39,
+          "departament": "Отдел 4",
+          "salary": 61351,
+          "projects": 3
+        },
+        {
+          "id": 455,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 110121,
+          "projects": 1
+        },
+        {
+          "id": 456,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 143095,
+          "projects": 4
+        },
+        {
+          "id": 457,
+          "last_name": "Лунин",
+          "name": "Иван",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 97444,
+          "projects": 1
+        },
+        {
+          "id": 458,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 22,
+          "departament": "Отдел 4",
+          "salary": 113612,
+          "projects": 2
+        },
+        {
+          "id": 459,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 42,
+          "departament": "Отдел 4",
+          "salary": 91661,
+          "projects": 2
+        },
+        {
+          "id": 460,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 42,
+          "departament": "Отдел 4",
+          "salary": 36840,
+          "projects": 4
+        },
+        {
+          "id": 461,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 39,
+          "departament": "Отдел 4",
+          "salary": 20276,
+          "projects": 2
+        },
+        {
+          "id": 462,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 4",
+          "salary": 34945,
+          "projects": 4
+        },
+        {
+          "id": 463,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 31,
+          "departament": "Отдел 4",
+          "salary": 98071,
+          "projects": 4
+        },
+        {
+          "id": 464,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 25,
+          "departament": "Отдел 4",
+          "salary": 122313,
+          "projects": 4
+        },
+        {
+          "id": 465,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 22609,
+          "projects": 4
+        },
+        {
+          "id": 466,
+          "last_name": "Андреев",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 68341,
+          "projects": 1
+        },
+        {
+          "id": 467,
+          "last_name": "Андреев",
+          "name": "Антон",
+          "age": 43,
+          "departament": "Отдел 4",
+          "salary": 37357,
+          "projects": 3
+        },
+        {
+          "id": 468,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 61415,
+          "projects": 2
+        },
+        {
+          "id": 469,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 50,
+          "departament": "Отдел 4",
+          "salary": 120434,
+          "projects": 4
+        },
+        {
+          "id": 470,
+          "last_name": "Сидоров",
+          "name": "Артём",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 105459,
+          "projects": 4
+        },
+        {
+          "id": 471,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 49,
+          "departament": "Отдел 4",
+          "salary": 48908,
+          "projects": 3
+        },
+        {
+          "id": 472,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 38,
+          "departament": "Отдел 4",
+          "salary": 29052,
+          "projects": 2
+        },
+        {
+          "id": 473,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 41,
+          "departament": "Отдел 4",
+          "salary": 22908,
+          "projects": 1
+        },
+        {
+          "id": 474,
+          "last_name": "Иванов",
+          "name": "Иван",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 21050,
+          "projects": 4
+        },
+        {
+          "id": 475,
+          "last_name": "Русинов",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 64387,
+          "projects": 3
+        },
+        {
+          "id": 476,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 45434,
+          "projects": 3
+        },
+        {
+          "id": 477,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 37,
+          "departament": "Отдел 4",
+          "salary": 71207,
+          "projects": 1
+        },
+        {
+          "id": 478,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 36,
+          "departament": "Отдел 4",
+          "salary": 97110,
+          "projects": 4
+        },
+        {
+          "id": 479,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 45,
+          "departament": "Отдел 4",
+          "salary": 144750,
+          "projects": 1
+        },
+        {
+          "id": 480,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 49,
+          "departament": "Отдел 4",
+          "salary": 113063,
+          "projects": 3
+        },
+        {
+          "id": 481,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 114363,
+          "projects": 3
+        },
+        {
+          "id": 482,
+          "last_name": "Лунин",
+          "name": "Артём",
+          "age": 38,
+          "departament": "Отдел 4",
+          "salary": 101924,
+          "projects": 2
+        },
+        {
+          "id": 483,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 4",
+          "salary": 88085,
+          "projects": 2
+        },
+        {
+          "id": 484,
+          "last_name": "Андреев",
+          "name": "Илья",
+          "age": 28,
+          "departament": "Отдел 4",
+          "salary": 129245,
+          "projects": 4
+        },
+        {
+          "id": 485,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 39,
+          "departament": "Отдел 4",
+          "salary": 21110,
+          "projects": 3
+        },
+        {
+          "id": 486,
+          "last_name": "Иванов",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 40284,
+          "projects": 4
+        },
+        {
+          "id": 487,
+          "last_name": "Андреев",
+          "name": "Владимир",
+          "age": 32,
+          "departament": "Отдел 4",
+          "salary": 99793,
+          "projects": 3
+        },
+        {
+          "id": 488,
+          "last_name": "Сидоров",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 133688,
+          "projects": 3
+        },
+        {
+          "id": 489,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 48,
+          "departament": "Отдел 4",
+          "salary": 58142,
+          "projects": 1
+        },
+        {
+          "id": 490,
+          "last_name": "Русинов",
+          "name": "Артём",
+          "age": 29,
+          "departament": "Отдел 4",
+          "salary": 105584,
+          "projects": 2
+        },
+        {
+          "id": 491,
+          "last_name": "Лунин",
+          "name": "Илья",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 118635,
+          "projects": 3
+        },
+        {
+          "id": 492,
+          "last_name": "Петров",
+          "name": "Артём",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 149000,
+          "projects": 2
+        },
+        {
+          "id": 493,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 33,
+          "departament": "Отдел 4",
+          "salary": 113675,
+          "projects": 2
+        },
+        {
+          "id": 494,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 139035,
+          "projects": 4
+        },
+        {
+          "id": 495,
+          "last_name": "Лунин",
+          "name": "Антон",
+          "age": 32,
+          "departament": "Отдел 4",
+          "salary": 62699,
+          "projects": 4
+        },
+        {
+          "id": 496,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 30,
+          "departament": "Отдел 4",
+          "salary": 142468,
+          "projects": 1
+        },
+        {
+          "id": 497,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 135474,
+          "projects": 2
+        },
+        {
+          "id": 498,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 40,
+          "departament": "Отдел 4",
+          "salary": 147372,
+          "projects": 3
+        },
+        {
+          "id": 499,
+          "last_name": "Русинов",
+          "name": "Илья",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 90132,
+          "projects": 2
+        },
+        {
+          "id": 500,
+          "last_name": "Петров",
+          "name": "Антон",
+          "age": 25,
+          "departament": "Отдел 4",
+          "salary": 134985,
+          "projects": 4
+        },
+        {
+          "id": 501,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 32,
+          "departament": "Отдел 4",
+          "salary": 121846,
+          "projects": 3
+        },
+        {
+          "id": 502,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 44,
+          "departament": "Отдел 4",
+          "salary": 146125,
+          "projects": 2
+        },
+        {
+          "id": 503,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 25,
+          "departament": "Отдел 4",
+          "salary": 125741,
+          "projects": 1
+        },
+        {
+          "id": 504,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 37,
+          "departament": "Отдел 4",
+          "salary": 77235,
+          "projects": 3
+        },
+        {
+          "id": 505,
+          "last_name": "Лунин",
+          "name": "Владимир",
+          "age": 45,
+          "departament": "Отдел 4",
+          "salary": 62939,
+          "projects": 2
+        },
+        {
+          "id": 506,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 47,
+          "departament": "Отдел 4",
+          "salary": 30021,
+          "projects": 3
+        },
+        {
+          "id": 507,
+          "last_name": "Андреев",
+          "name": "Андрей",
+          "age": 34,
+          "departament": "Отдел 4",
+          "salary": 34023,
+          "projects": 4
+        },
+        {
+          "id": 508,
+          "last_name": "Иванов",
+          "name": "Владимир",
+          "age": 34,
+          "departament": "Отдел 4",
+          "salary": 62059,
+          "projects": 4
+        },
+        {
+          "id": 509,
+          "last_name": "Иванов",
+          "name": "Андрей",
+          "age": 40,
+          "departament": "Отдел 4",
+          "salary": 97190,
+          "projects": 3
+        },
+        {
+          "id": 510,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 21,
+          "departament": "Отдел 4",
+          "salary": 88827,
+          "projects": 1
+        },
+        {
+          "id": 511,
+          "last_name": "Сидоров",
+          "name": "Владимир",
+          "age": 43,
+          "departament": "Отдел 4",
+          "salary": 59703,
+          "projects": 1
+        },
+        {
+          "id": 512,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 21,
+          "departament": "Отдел 4",
+          "salary": 64158,
+          "projects": 4
+        },
+        {
+          "id": 513,
+          "last_name": "Петров",
+          "name": "Андрей",
+          "age": 42,
+          "departament": "Отдел 4",
+          "salary": 61602,
+          "projects": 2
+        },
+        {
+          "id": 514,
+          "last_name": "Иванов",
+          "name": "Антон",
+          "age": 22,
+          "departament": "Отдел 4",
+          "salary": 143643,
+          "projects": 3
+        },
+        {
+          "id": 515,
+          "last_name": "Русинов",
+          "name": "Петр",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 96600,
+          "projects": 2
+        },
+        {
+          "id": 516,
+          "last_name": "Андреев",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 118278,
+          "projects": 3
+        },
+        {
+          "id": 517,
+          "last_name": "Лунин",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 4",
+          "salary": 147882,
+          "projects": 2
+        },
+        {
+          "id": 518,
+          "last_name": "Иванов",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 140109,
+          "projects": 1
+        },
+        {
+          "id": 519,
+          "last_name": "Петров",
+          "name": "Владимир",
+          "age": 23,
+          "departament": "Отдел 4",
+          "salary": 67655,
+          "projects": 4
+        },
+        {
+          "id": 520,
+          "last_name": "Сидоров",
+          "name": "Илья",
+          "age": 31,
+          "departament": "Отдел 4",
+          "salary": 45313,
+          "projects": 2
+        },
+        {
+          "id": 521,
+          "last_name": "Лунин",
+          "name": "Андрей",
+          "age": 22,
+          "departament": "Отдел 4",
+          "salary": 122214,
+          "projects": 3
+        },
+        {
+          "id": 522,
+          "last_name": "Петров",
+          "name": "Иван",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 138205,
+          "projects": 2
+        },
+        {
+          "id": 523,
+          "last_name": "Крюков",
+          "name": "Илья",
+          "age": 29,
+          "departament": "Отдел 4",
+          "salary": 107684,
+          "projects": 2
+        },
+        {
+          "id": 524,
+          "last_name": "Крюков",
+          "name": "Петр",
+          "age": 42,
+          "departament": "Отдел 4",
+          "salary": 22641,
+          "projects": 1
+        },
+        {
+          "id": 525,
+          "last_name": "Петров",
+          "name": "Илья",
+          "age": 24,
+          "departament": "Отдел 4",
+          "salary": 125810,
+          "projects": 3
+        },
+        {
+          "id": 526,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 46,
+          "departament": "Отдел 4",
+          "salary": 127691,
+          "projects": 4
+        },
+        {
+          "id": 527,
+          "last_name": "Крюков",
+          "name": "Иван",
+          "age": 21,
+          "departament": "Отдел 4",
+          "salary": 67308,
+          "projects": 1
+        },
+        {
+          "id": 528,
+          "last_name": "Крюков",
+          "name": "Антон",
+          "age": 37,
+          "departament": "Отдел 4",
+          "salary": 63842,
+          "projects": 2
+        },
+        {
+          "id": 529,
+          "last_name": "Крюков",
+          "name": "Артём",
+          "age": 27,
+          "departament": "Отдел 4",
+          "salary": 97794,
+          "projects": 2
+        },
+        {
+          "id": 530,
+          "last_name": "Петров",
+          "name": "Петр",
+          "age": 33,
+          "departament": "Отдел 4",
+          "salary": 32935,
+          "projects": 4
+        },
+        {
+          "id": 531,
+          "last_name": "Андреев",
+          "name": "Петр",
+          "age": 30,
+          "departament": "Отдел 4",
+          "salary": 29376,
+          "projects": 2
+        },
+        {
+          "id": 532,
+          "last_name": "Русинов",
+          "name": "Владимир",
+          "age": 28,
+          "departament": "Отдел 4",
+          "salary": 29510,
+          "projects": 4
+        },
+        {
+          "id": 533,
+          "last_name": "Крюков",
+          "name": "Владимир",
+          "age": 30,
+          "departament": "Отдел 4",
+          "salary": 140113,
+          "projects": 3
+        },
+        {
+          "id": 534,
+          "last_name": "Иванов",
+          "name": "Артём",
+          "age": 49,
+          "departament": "Отдел 4",
+          "salary": 97147,
+          "projects": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\bin\Debug\DatatBase.exe.config
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\bin\Debug\DatatBase.exe
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\bin\Debug\DatatBase.pdb
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.csprojAssemblyReference.cache
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.Properties.Resources.resources
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.csproj.GenerateResource.cache
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.csproj.CoreCompileInputs.cache
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.exe
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.pdb
+C:\Users\redl2\Desktop\SkillBox\Профессия C#–разработчик с нуля до PRO\8. Коллекции\DatatBase\obj\Debug\DatatBase.MainForm.resources
